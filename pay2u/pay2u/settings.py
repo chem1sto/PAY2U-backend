@@ -27,7 +27,7 @@ if LOCAL:
 else:
     LOCAL_DB = False
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost"]
+ALLOWED_HOSTS = ["185.180.230.243", "127.0.0.1", "localhost"]
 
 # Application definition
 
